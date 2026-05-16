@@ -2,6 +2,13 @@
 
 A premium, neon-themed Flutter application showcasing a collection of vintage tech and retro collectibles. This project was built for a Flutter/Dart assignment, focusing on aesthetic UI design, static components, and a "vintage futurism" vibe. The application is built primarily using StatelessWidget, emphasizing simple structure, clean UI layout, and beginner-friendly Flutter development principles.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/items_list.png" alt="Retro Shop Items List" width="45%" />
+  <img src="screenshots/drawer.png" alt="Retro Shop Drawer Menu" width="45%" />
+</p>
+
 ## 🛠️ Technology Stack
 
 *   **Framework:** Flutter (Channel stable)
